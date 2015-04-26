@@ -1,0 +1,9 @@
+#Eclipse:
+.project
+.settings
+.cproject
+
+#C++:
+*.o
+*.exe
+
